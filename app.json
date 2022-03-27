@@ -1,11 +1,11 @@
 {
     "name": "ALPHA V 4.0.0",
     "description": "World Best Whatsapp Bot",
-    "logo": "https://telegra.ph/file/10bdbaab2d4d163e2affa.jpg",
-    "keywords": ["Trex", "T-REX"],
+    "logo": "https://telegra.ph/file/c6beb0a1d7c7152e16185.png",
+    "keywords": ["Cyber-Mafia", "Ninja"],
     "stack": "container",
     "env": {
-      "TREX_SESSION": {
+      "MAFIA-SESSION": {
             "description": "Paste your QR session that you got from https://replit.com/@TRexWa/T-REX-QR-SESSION .",
             "required": true
         },
@@ -235,7 +235,7 @@
         "CAPTION": {
             "description": "LOGO MAKER CAPTION",
             "required": true,
-            "value": "   ▷ ᴹᴬᴰᴱ 🄱🅈 Ｔ-ＲＥＸ │"
+            "value": "𝕮𝖞𝖇𝖊𝖗 𝕸𝖆𝖋𝖎𝖆"
         },
         "COFFEEHOUSE_API_KEY": {
             "description": "Give it up. We give you this.",
